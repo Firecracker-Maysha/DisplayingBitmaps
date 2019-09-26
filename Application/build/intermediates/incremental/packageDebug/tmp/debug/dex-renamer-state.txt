@@ -1,0 +1,4 @@
+#Thu Sep 26 10:33:26 PDT 2019
+base.0=/Users/mashatseveen/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
